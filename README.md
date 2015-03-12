@@ -1,4 +1,4 @@
 # Violent_Python
 Python projects
 
-Repository for python script from Violent Python book 
+Repository for python scripts from Violent Python book 
